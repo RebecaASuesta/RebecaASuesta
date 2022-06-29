@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hey there, I'm Rebeca! ✨</h1>
-<h2 align="center"> Full-Stack Developer </h2>
+<h3 align="center"> Full-Stack Developer </h3>
 
 <br></br>
 ## 👸 About me
