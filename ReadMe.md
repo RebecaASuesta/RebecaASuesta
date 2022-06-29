@@ -1,5 +1,8 @@
 <h1 align="center">✨ Hey there, I'm Rebeca! ✨</h1>
-<h3 align="center">Full-Stack Developer student</h3>
+<h2 align="center"> Full-Stack Developer </h2>
+
+<br></br>
+## 👸 About me
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -12,26 +15,31 @@
 - 📫 How to reach me:
 
 <div align="center">
-<a href = "mailto:rebeca.as1994@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
-</a>
-<a href="https://github.com/RebecaASuesta" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github"/>
-</a>
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
+    <a href = "mailto:rebeca.as1994@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
+    </a>
+    <a href="https://github.com/RebecaASuesta" target="_blank">
+        <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github"/>
+    </a>
+    <a href="https://www.linkedin.com/in/rebeca-alonso-suesta-a432769b" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    </a>
 </div>
 
 <br></br>
 
-[![Rebeca's GitHub stats](https://github-readme-stats.vercel.app/api?username=RebecaASuesta&show_icons=true&theme=radical)](https://github.com/RebecaASuesta/ReadMe)
+## 💥 Stats
+
+<div align="center">
+
+[![Rebeca's GitHub stats](https://github-readme-stats.vercel.app/api?username=RebecaASuesta&show_icons=true&theme=radical)](https://github.com/RebecaASuesta/ReadMe);
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaASuesta&layout=compact&show_icons=true&theme=radical)](https://github.com/RebecaASuesta/ReadMe)
+</div>
 
 <br></br>
 
-## Technologies  
+## 🤓 Technologies  
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
